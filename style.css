@@ -55,3 +55,18 @@ main {
     bottom: 0;
     z-index: -1;
 }
+
+footer {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 75px;
+    padding-left: 75px;
+    color: #FFFFFF;
+    font-weight: 100;
+}
+
+footer div {
+    width: 64px;
+}
